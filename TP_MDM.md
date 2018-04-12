@@ -92,3 +92,9 @@ Pour pouvoir créer des clients :
 
 ### Créer des clients
 
+Quand on crée un premier client qui habite dans un appartement, l'UI ne l'affiche pas car nous avons créé une vue qui n'affiche que les clients habitant dans une maison. Quand on crée un client qui habite dans une maison, il sera affiché dans la vue. Si on veut afficher tous les clients, il faut enlever la contrainte sur la maison et tout redéployer sur le serveur.
+
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_39_19-Talend%20MDM.png)
+
+## 8. Créer un job talend pour alimenter la BDD
+
