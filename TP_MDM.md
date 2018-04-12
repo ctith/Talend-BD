@@ -119,3 +119,5 @@ Cliquer sur "..." de xpath
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_05_19-Talend%20MDM.png)
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_05_07-tMDMOutput_1.png)
 
+Pour pouvoir envoyer les clients, il faut d'abord créer une table département comme elle est utilisée en clé étrangère.
+Il faudra alors supprimer les départements redondants.
