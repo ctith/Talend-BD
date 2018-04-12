@@ -2,7 +2,7 @@
 
 ## 1. Importer fichiers csv de travail
 
-Cliquer en haut à droite sur Profiling
+Cliquer en haut à droite sur **Profiling**
 
 Importer les fichiers Clients_InfoPerso_2.csv et Clients_InfoPro_2.csv
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2011_33_47-Nouveau%20fichier%20d%C3%A9limit%C3%A9.png)
@@ -29,12 +29,12 @@ Visualisation des résultats
 
 ## 3. Envoyer les fichiers csv dans une BDD
 
-Cliquer en haut à droite sur Integration
+Cliquer en haut à droite sur **Integration**
 
 
 ## 4. Créer un modèle de données
 
-Cliquer en haut à droite sur MDM
+Cliquer en haut à droite sur **MDM**
 
 ajouter nouvelle entité
 
@@ -97,4 +97,17 @@ Quand on crée un premier client qui habite dans un appartement, l'UI ne l'affic
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_39_19-Talend%20MDM.png)
 
 ## 8. Créer un job talend pour alimenter la BDD
+
+Cliquer en haut à droite sur **Integration**
+
+### Créer une connexion MDM
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_48_09-connexionMDM.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_48_26-Connexion%20au%20MDM.png)
+
+Créer un MDM Client Output (clic droit sur le MDM)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_51_52-.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_52_00-.png)
+
+### Créer un job
+
 
