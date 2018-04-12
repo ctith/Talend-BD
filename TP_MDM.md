@@ -28,3 +28,26 @@ Visualisation des résultats
 ## 3. Envoyer les fichiers csv dans une BDD
 
 Cliquer en haut à droite sur Integration
+
+
+## 4. Créer un modèle de données
+
+Cliquer en haut à droite sur MDM
+
+ajouter nouvelle entité
+
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_40_05-Nouvelle%20entit%C3%A9.png)
+
+ajoute nouvel élément métier
+
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_39_44-Ajouter%20un%20nouvel%20%C3%A9l%C3%A9ment%20m%C3%A9tier.png)
+
+rajouter une clé étrangère
+
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_48_16-Configurer%20la%20cl%C3%A9%20%C3%A9trang%C3%A8re.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_48_06-Select%20Xpath.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_48_36-Talend-BD_Talend-screenshot%20at%20master%20%C2%B7%20ctith_Talend-BD.png)
+
+Visualisation du modèle sous forme xpath
+
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_49_52-Editing%20Talend-BD_TP_MDM.md%20at%20master%20%C2%B7%20ctith_Talend-BD.png)
