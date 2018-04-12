@@ -20,6 +20,5 @@ Définir les regex pour chacun des modèles
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2011_47_33-.png)
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2011_44_31-S%C3%A9lecteur%20de%20mod%C3%A8le.png)
 
-
-
-![]()
+Visualisation des résultats
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2011_55_14-Talend%20Open%20Studio%20for%20MDM%20(6.5.1.20180116_1512)%20_%20gouvernance%20(Connexion_%20local.png)
