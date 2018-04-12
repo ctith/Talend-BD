@@ -64,3 +64,11 @@ Créer une vue web sur les clients
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_05_59-.png)
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_06_23-.png)
 
+## 6. Déployer le modèle
+
+Vérifier que le serveur est bien réglé
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_11_15-server.png)
+
+Clic droit sur Data Model > System > Client MDM > Déployer le modèle
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_09_52-.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_09_40-.png)
