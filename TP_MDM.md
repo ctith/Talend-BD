@@ -76,10 +76,19 @@ Clic droit sur Data Model > System > Client MDM > Déployer le modèle pour tous
 
 ## 7. Accéder au modèle crée sur un navigateur web
 
+### Connexion à Talend UI via un navigateur web
+
 http://localhost:8180/talendmdm/ui
 
-id: user
+Pour visualiser les données :
+- id: user
+- mdp: user
 
-mdp: user
+Pour pouvoir créer des clients :
+- id: administrator
+- mdp: administrator
 
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_21_51-Talend%20MDM.png)
+
+### Créer des clients
+
