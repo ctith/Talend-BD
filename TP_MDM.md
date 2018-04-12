@@ -109,5 +109,6 @@ Créer un MDM Client Output (clic droit sur le MDM)
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_52_00-.png)
 
 ### Créer un job
-
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_05_19-Talend%20MDM.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_05_07-tMDMOutput_1.png)
 
