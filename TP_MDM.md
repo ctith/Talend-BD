@@ -109,11 +109,11 @@ Créer un MDM Client Output (clic droit sur le MDM)
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_52_00-.png)
 
 ### Créer un job
-Cliquer sur "..." de xpath
-![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_05_19-Talend%20MDM.png)
 
 Faire la correspondance des noms de champs entre les colonnes à celle du modèle MDM
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_08_46-Talend%20Open%20Studio%20for%20MDM%20-%20tMap%20-%20tMap_1.png)
 
+Cliquer sur "..." de xpath
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_05_19-Talend%20MDM.png)
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_05_07-tMDMOutput_1.png)
 
