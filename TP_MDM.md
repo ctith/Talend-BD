@@ -61,4 +61,6 @@ Créer une vue web sur les clients
 
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_58_45-Nouvelle%20Vue.png)
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2014_58_37-S%C3%A9lectionnez%20une%20Entit%C3%A9.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_05_59-.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2015_06_23-.png)
 
