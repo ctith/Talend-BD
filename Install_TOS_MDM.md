@@ -22,7 +22,11 @@
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/server%20tomcat.png)
 
 6. créer une analyse
-> analyse de colonnes 
+*analyse inter-tables* : analyse de qualité de données
+- analyse de redondance : clé étrangère et clé primaire
+ex: table client (clé primaire) et table commande (clés étrangères) : 1 client peut avoir plusieurs commandes
+
+*analyse de colonnes* 
 - nominal values analysis (ex: analyse de code postaux, pas besoin de préciser que ce sont des int)
 - analyse de colonne simple (nombre de null par colonne, nb de répétition de valeur par colonne
 - analyse données discrète : analyse de données numériques
