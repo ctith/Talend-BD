@@ -110,6 +110,8 @@ Créer un MDM Client Output (clic droit sur le MDM)
 
 ### Créer un job
 
+On va envoyer nos données des fichiers csv dans le serveur donc ce qui nous intéresse sont que les infos du MDM concernant les clients. On les récupère grâce au composant tMap.
+
 Faire la correspondance des noms de champs entre les colonnes à celle du modèle MDM
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_08_46-Talend%20Open%20Studio%20for%20MDM%20-%20tMap%20-%20tMap_1.png)
 
