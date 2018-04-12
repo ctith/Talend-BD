@@ -121,3 +121,16 @@ Cliquer sur "..." de xpath
 
 Pour pouvoir envoyer les clients, il faut d'abord créer une table département comme elle est utilisée en clé étrangère.
 Il faudra alors supprimer les départements redondants.
+
+### Créer un trigger
+
+Permet de récupérer toutes les opérations effectuées dans un job.
+
+Clic droit sur un job > Generate Talend Job Trigger 
+
+Dans Event Management > Trigger: modifier les xpath expression pour garder les opérations que l'on veut enregistrer dans un trigger
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2017_04_36-trigger01.png)
+
+Puis faire un job qui va extraire les triggers qui nous intéresse
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2016_56_40-trigger02.png)
+![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2017_05_19-trigger03.png)
