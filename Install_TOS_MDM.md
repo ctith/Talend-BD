@@ -31,4 +31,7 @@ ex: table client (clé primaire) et table commande (clés étrangères) : 1 clie
 - analyse de colonne simple (nombre de null par colonne, nb de répétition de valeur par colonne
 - analyse données discrète : analyse de données numériques
 
+*analyse de table*
+- analyse de dépendance fonctionnelle : vérifie la cohérence des données (FONDAMENTAL)
+
 ![](https://github.com/ctith/Talend-BD/blob/master/Talend-screenshot/2018-04-12%2010_39_52-Cr%C3%A9er%20une%20nouvelle%20analyse.png)
